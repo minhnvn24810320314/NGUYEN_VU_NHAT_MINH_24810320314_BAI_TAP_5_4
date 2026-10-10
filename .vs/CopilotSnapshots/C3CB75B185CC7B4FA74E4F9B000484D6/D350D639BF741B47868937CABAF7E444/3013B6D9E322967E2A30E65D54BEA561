@@ -1,0 +1,10 @@
+﻿namespace NGUYEN_VU_NHAT_MINH_24810320314_BAI_TAP_5_4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+    }
+}
